@@ -1,0 +1,16 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+SQLAlchemy==2.0.52
+PyMySQL==1.2.3
+cryptography
+pydantic==2.13.4
+email-validator
+python-multipart
+python-jose==3.5.0
+passlib==1.7.4
+bcrypt==4.0.1
+Faker==40.43.0
+requests==2.34.2
+pandas==3.0.6
+matplotlib==3.11.2
+jupyter
